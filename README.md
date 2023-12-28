@@ -1,9 +1,10 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=01_CODE&animation=&fontColor=ffffff&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80" />
+
 </div>
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 1 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 1 </div> 
+    <h2> 안녕하세요 👋 </h2>
+    <p>백엔드 개발자를 향해 공부하는 황영일입니다!</p>
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -18,9 +19,11 @@
     </div>
 </div>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Contact me </h2> <br> 
-    <div align= "center">  <a href=https://zeroone0314.blogspot.com/><img alt="Blogger" src ="https://img.shields.io/badge/Blogger-FF5722.svg?&style=for-the-badge&logo=Blogger&logoColor=white&link=https://zeroone0314.blogspot.com/"/></a><a href=mailto:jyhwangy4k@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jyhwangy4k@gmail.com"> </a></div>  <br> 
-    <div align= "center">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Contact </h2> <br> 
+    <div align= "center">
+        <a href=https://zeroone0314.blogspot.com/><img alt="Blogger" src ="https://img.shields.io/badge/Blogger-FF5722.svg?&style=for-the-badge&logo=Blogger&logoColor=white&link=https://zeroone0314.blogspot.com/"/></a>
+        <a href=mailto:jyhwangy4k@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jyhwangy4k@gmail.com"></a>
+    </div>
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hwang-yeongil&bg_color=180,000000,&title_color=000000&text_color=000000"
